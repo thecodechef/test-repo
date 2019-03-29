@@ -1,0 +1,22 @@
+{
+  "name": "@test/repo",
+  "version": "0.0.1",
+  "description": "",
+  "main":"",
+  "license": "MIT",
+  "author": "Jeremy Bolding <cyberchefjay@gmail.com> (thecodechef.github.io)",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/thecodechef/test-repo.git"
+  },
+  "bugs": "https://www.github.com/thecodechef/test-repo/issues/new",
+  "dependencies": {
+    "react": "*",
+    "react-dom": "*"
+  },
+  "devDependencies": {
+    "react-test-renderer": "*",
+    "jest": "*",
+    "enzyme": "*",
+    "enzyme-adapter-react-16": "*"
+  }
