@@ -1,6 +1,9 @@
 container:
   image: node:latest
 
+env:
+  GITHUB_TOKEN: ENCRYPTED[6435caa35f87b9e2b38a6e1a191b72443cc2836171f4c7422860059c675ef5679dc3c8b64e4329fb89700b045f39615f]
+
 install_task:
   install_script: yarn install
 
