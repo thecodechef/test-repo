@@ -2,19 +2,9 @@ container:
   image: node:latest
 
 build_task:
-  # Cache ./node_modules/
-  node_modules_cache:
-    folder: node_modules
-    fingerprint_script: cat yarn.lock
-    populate_script: yarn install
   # Run Yarn build command
   build_script: yarn run build
 
 test_task:
-  # Cache ./node_modules/
-  node_modules_cache:
-    folder: node_modules
-    fingerprint_script: cat yarn.lock
-    populate_script: yarn install
   # Run Yarn test command
   test_script: yarn run test
