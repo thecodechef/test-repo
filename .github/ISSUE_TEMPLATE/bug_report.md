@@ -2,7 +2,7 @@
 name: Bug report
 about: Report Bugs to help us improve!
 title: 'Bug'
-labels: ['bug', 'help-wanted']
+labels: 'bug, help-wanted'
 assignees: '@thecodechef'
 
 ---
