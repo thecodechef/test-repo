@@ -2,4 +2,4 @@ container:
   image: node:latest
 
 install_task:
-  install_script: yarn
+  install_script: npm install
