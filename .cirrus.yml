@@ -1,5 +1,5 @@
 container:
   image: node:latest
 
-install_task
+install_task:
   install_script: yarn
