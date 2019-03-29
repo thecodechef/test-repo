@@ -1,10 +1,5 @@
 container:
   image: node:latest
 
-build_task:
-  # Run Yarn build command
-  build_script: yarn run build
-
-test_task:
-  # Run Yarn test command
-  test_script: yarn run test
+install_task
+  install_script: yarn
