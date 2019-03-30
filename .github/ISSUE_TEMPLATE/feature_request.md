@@ -1,9 +1,9 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: 'Feature'
-labels: 'feature-request,help wanted, wip'
-assignees: 'thecodechef'
+title: Feature
+labels: feature-request, help wanted, wip
+assignees: thecodechef
 
 ---
 
