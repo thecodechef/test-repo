@@ -1,0 +1,13 @@
+{
+    "projectName": "test-repo",
+    "projectOwner": "thecodechef",
+    "repoType": "github",
+    "repoHost": "https://www.github.com",
+    "files": [
+        "README.md"
+    ],
+    "imageSize": 75,
+    "commit": false,
+    "contributors": [],
+    "contributorsPerLine": 8
+}
