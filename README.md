@@ -3,6 +3,7 @@
 > A test repository
 
 [![CirrusCI](https://api.cirrus-ci.com/github/thecodechef/test-repo.svg)](https://cirrus-ci.com/github/thecodechef/test-repo)
+[![Build Status](https://cyberchefjay.visualstudio.com/test-repo/_apis/build/status/thecodechef.test-repo?branchName=master)](https://cyberchefjay.visualstudio.com/test-repo/_build/latest?definitionId=1&branchName=master)
 
 ## Contributors
 
